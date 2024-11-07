@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.js": "/myportfolio/static/js/main.f5b5dafd.js",
-    "static/media/friendly.png": "/myportfolio/static/media/friendly.d99e6f0a00bfd8014a50.png",
-    "static/media/schoolsys.png": "/myportfolio/static/media/schoolsys.250c3534d1f43bf169c9.png",
-    "static/media/postman.png": "/myportfolio/static/media/postman.b1b51fdf4d95d2a1e4e9.png",
-    "static/media/bootstrap.png": "/myportfolio/static/media/bootstrap.268c4375260420e8d982.png",
-    "static/media/js.png": "/myportfolio/static/media/js.3dfb665e058d08c99f28.png",
-    "static/media/kubernetes.svg": "/myportfolio/static/media/kubernetes.69f6c4411fc98e5e50dafe77f8ea8ea1.svg",
-    "static/media/grafana.svg": "/myportfolio/static/media/grafana.7fe57917a5ca71db2fc1f8a4df4dfa16.svg",
-    "static/media/react.svg": "/myportfolio/static/media/react.0cc978f43ea437de003e85712225e83b.svg",
-    "static/media/sql-database-generic.svg": "/myportfolio/static/media/sql-database-generic.c8e44c297d9d4f450f38df95e651aedd.svg",
-    "static/media/node-js.svg": "/myportfolio/static/media/node-js.a7647021075b20ebcf315dd54793112d.svg",
-    "static/media/prometheus.svg": "/myportfolio/static/media/prometheus.3934cfbc3603f5af5f0ebc4cc76b585d.svg",
-    "static/media/docker.svg": "/myportfolio/static/media/docker.526bf95bd6ea74953f99ef403f30cbfd.svg",
-    "static/media/django.svg": "/myportfolio/static/media/django.6ce5529c9ef01d428230ef2b3eb4e6fe.svg",
-    "static/media/file-type-css.svg": "/myportfolio/static/media/file-type-css.d775a84d2e94cdab548cdffe1aa9ff83.svg",
-    "index.html": "/myportfolio/index.html",
-    "static/media/file-type-html.svg": "/myportfolio/static/media/file-type-html.51305ec564cee03372ec0fdaaa77854d.svg",
-    "static/media/mui.svg": "/myportfolio/static/media/mui.b45776fb29e80a04fe8a1f4e944e7ae8.svg",
-    "main.f5b5dafd.js.map": "/myportfolio/static/js/main.f5b5dafd.js.map"
+    "main.js": "/rutikang/my_portfolio.git/static/js/main.d78517dc.js",
+    "static/media/friendly.png": "/rutikang/my_portfolio.git/static/media/friendly.d99e6f0a00bfd8014a50.png",
+    "static/media/schoolsys.png": "/rutikang/my_portfolio.git/static/media/schoolsys.250c3534d1f43bf169c9.png",
+    "static/media/postman.png": "/rutikang/my_portfolio.git/static/media/postman.b1b51fdf4d95d2a1e4e9.png",
+    "static/media/bootstrap.png": "/rutikang/my_portfolio.git/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/js.png": "/rutikang/my_portfolio.git/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/kubernetes.svg": "/rutikang/my_portfolio.git/static/media/kubernetes.69f6c4411fc98e5e50dafe77f8ea8ea1.svg",
+    "static/media/grafana.svg": "/rutikang/my_portfolio.git/static/media/grafana.7fe57917a5ca71db2fc1f8a4df4dfa16.svg",
+    "static/media/react.svg": "/rutikang/my_portfolio.git/static/media/react.0cc978f43ea437de003e85712225e83b.svg",
+    "static/media/sql-database-generic.svg": "/rutikang/my_portfolio.git/static/media/sql-database-generic.c8e44c297d9d4f450f38df95e651aedd.svg",
+    "static/media/node-js.svg": "/rutikang/my_portfolio.git/static/media/node-js.a7647021075b20ebcf315dd54793112d.svg",
+    "static/media/prometheus.svg": "/rutikang/my_portfolio.git/static/media/prometheus.3934cfbc3603f5af5f0ebc4cc76b585d.svg",
+    "static/media/docker.svg": "/rutikang/my_portfolio.git/static/media/docker.526bf95bd6ea74953f99ef403f30cbfd.svg",
+    "static/media/django.svg": "/rutikang/my_portfolio.git/static/media/django.6ce5529c9ef01d428230ef2b3eb4e6fe.svg",
+    "index.html": "/rutikang/my_portfolio.git/index.html",
+    "static/media/file-type-css.svg": "/rutikang/my_portfolio.git/static/media/file-type-css.d775a84d2e94cdab548cdffe1aa9ff83.svg",
+    "static/media/file-type-html.svg": "/rutikang/my_portfolio.git/static/media/file-type-html.51305ec564cee03372ec0fdaaa77854d.svg",
+    "static/media/mui.svg": "/rutikang/my_portfolio.git/static/media/mui.b45776fb29e80a04fe8a1f4e944e7ae8.svg",
+    "main.d78517dc.js.map": "/rutikang/my_portfolio.git/static/js/main.d78517dc.js.map"
   },
   "entrypoints": [
-    "static/js/main.f5b5dafd.js"
+    "static/js/main.d78517dc.js"
   ]
 }
